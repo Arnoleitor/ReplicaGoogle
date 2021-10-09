@@ -73,14 +73,15 @@ body{
 }
 
 #menu{
-    width: 28vh;
-    height: 6vh;
+    width: 24vh;
+    height: 5vh;
 }
 #buscargoogle{
     display: flex;
     width: 100px;
     height: 54px;
     align-items: center;
+    justify-content: flex-end;
 }
 
 #suerte{
@@ -91,7 +92,8 @@ body{
 }
 #debajo-buscador{
     display: flex;
-    width: 500px;
+    width: 277px;
     height: 117px;
     align-items: center;
+    justify-content: space-evenly;
 }
